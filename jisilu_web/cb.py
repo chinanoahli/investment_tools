@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # 下载地址及使用说明
-# https://coding.net/u/chinanoahli/p/investment_tools/git
+# https://github.com/chinanoahli/investment_tools
 
 # 遇到问题请提Issues
 # 或给我发邮件（不保证全都能解决）：10005128+chinanoahli@users.noreply.github.com

@@ -6,4 +6,4 @@
 
 # 我的笔记
 
-1. [长投学堂](https://coding.net/u/chinanoahli/p/investment_note/git)
+1. [长投学堂](https://github.com/chinanoahli/investment_note)
