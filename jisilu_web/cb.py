@@ -3,8 +3,8 @@
 # 下载地址及使用说明
 # https://coding.net/u/chinanoahli/p/investment_tools/git
 
-# 遇到问题请给我发邮件（不保证全都能解决）：chinanoahli#vip.qq.com
-#                                               ^ 请将#号换成@
+# 遇到问题请提Issues
+# 或给我发邮件（不保证全都能解决）：10005128+chinanoahli@users.noreply.github.com
 
 from time import gmtime, strftime
 from pandas.io.json import json_normalize
