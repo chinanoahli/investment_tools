@@ -3,8 +3,7 @@
 # 下载地址及使用说明
 # https://github.com/chinanoahli/investment_tools
 
-# 遇到问题请提Issues
-# 或给我发邮件（不保证全都能解决）：10005128+chinanoahli@users.noreply.github.com
+# 遇到问题请提Issues（开发工具为个人兴趣，出现问题不保证全都能解决）
 
 from time import gmtime, strftime
 from pandas.io.json import json_normalize
