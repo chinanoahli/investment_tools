@@ -10,7 +10,7 @@ def get_past_10_years_index_update_date(now = datetime.datetime.now()):
 
     update_date = []
 
-    for year in range(now_year-10, now_year):
+    for year in range(now_year - 10, now_year):
         for update_month in [6, 12]:
             index_update_date = get_third_monday(year, update_month)
             if index_update_date < now_date:
@@ -27,3 +27,4 @@ month = datetime.datetime.now().month):
     day.weekday() == calendar.MONDAY and \
     day.month == month][2]
     return third_monday
+
